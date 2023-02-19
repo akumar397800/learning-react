@@ -1,0 +1,31 @@
+.body {
+    height: 38rem;
+    width: 24rem;
+
+    position: relative;
+    background-color: grey;
+    border-radius: 10%;
+}
+
+.body h2 {
+    margin-top: 0;
+    margin-left: 7rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.body p {
+    margin-left: 2rem;
+}
+
+.Image {
+    margin: 2rem;
+    height: 20rem;
+    width: 20rem;
+    border-radius: 20%;
+}
+
+.heading {
+    font-family: cursive;
+    margin-left: 7rem;
+    align-items: center;
+}
